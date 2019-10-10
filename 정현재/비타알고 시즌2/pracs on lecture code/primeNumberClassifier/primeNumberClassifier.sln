@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primeNumberClassifier", "primeNumberClassifier\primeNumberClassifier.vcxproj", "{998668AA-8100-4F79-BA3B-7D4C1A340CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Debug|x64.ActiveCfg = Debug|x64
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Debug|x64.Build.0 = Debug|x64
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Debug|x86.Build.0 = Debug|Win32
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Release|x64.ActiveCfg = Release|x64
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Release|x64.Build.0 = Release|x64
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Release|x86.ActiveCfg = Release|Win32
+		{998668AA-8100-4F79-BA3B-7D4C1A340CE8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7B489EA-E17A-41BB-B088-E2C2A1611CC3}
+	EndGlobalSection
+EndGlobal
