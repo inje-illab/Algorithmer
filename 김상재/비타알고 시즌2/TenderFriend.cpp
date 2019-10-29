@@ -2,7 +2,6 @@
 #include <vector>
 #include <math.h>
 using namespace std;
-
 int main(){
 	int N, x, y, max[2][2], temp[2][2], index[2];
 	float t_Sum, m_Sum;
